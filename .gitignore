@@ -1,0 +1,8 @@
+samples comp
+samples
+log
+node_modules
+output
+10mb.png
+yarn-error.log
+.DS_Store

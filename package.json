@@ -1,0 +1,17 @@
+{
+  "name": "nodecompress",
+  "version": "1.0.0",
+  "description": "Compress big folder structure with NodeJs",
+  "main": "index.js",
+  "author": "Illya Solodky",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "compress-images": "^2.0.4",
+    "gifsicle": "5.2.1",
+    "pngquant-bin": "6.0.1"
+  }
+}
